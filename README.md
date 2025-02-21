@@ -22,7 +22,7 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 - MicroSD card slot 
 - USB C Connector
   
-## How to operate 
+## How the board operate 
 
 - Simply plug in the board to the Flipper Zero, use the toggle to select one of the three chipsets, choose the app via the Flipper, and you’re good to go.
 
@@ -44,21 +44,25 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 2. Connect the USB-C cable to your laptop or computer. Then, while holding the Boot button (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
-3. Then, click "Connect" on the website. 
+3. Then, click "Connect" on the website.
 
-4. In the prompt window, select <ESP32-S2 (COM X)> (X will be a number between 1 and 9). 
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/ESPwebtool.connect.png?raw=true)
+   
+5. In the prompt window, select <ESP32-S2 (COM X)> (X will be a number between 1 and 9). 
 
-5. Open [Marauder firmware website](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater), and download the **four** related files under **Flipper Zero WiFi Dev Board**, as the 3-in-1 board uses the same chipset as the original Flipper WiFi Dev Board.
+6. Open [Marauder firmware website](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater), and download the **four** related files under **Flipper Zero WiFi Dev Board**, as the 3-in-1 board uses the same chipset as the original Flipper WiFi Dev Board, as showed in the following picture. 
 
-6. Next, select the files as shown in the picture. After double-checking that you've selected the correct files, click "PROGRAM."
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/ESPwebtool.files.png?raw=true)   
 
-7. The system should be ready to go in a few minutes.
+
+8. Next, select the files as shown in the picture. After double-checking that you've selected the correct files, click "PROGRAM."
+
+9. The system should be ready to go in a few minutes.
 
 FYI. Some people might need a few attempts to get it working during the process of getting the board into Bootloader mode, aka holding the BOOT button and connecting the USB-C cable, and the web refresher recogize it. Just be patient and try a few times.
 
 ## Q & A
-#
-#
-# credibility
+
+## Credibility
 - Credit of the [web flasher](https://esp.huhn.me/) goes to @spacehuhn
 - Credit of Marauder Firmware goes to @JustCallmeCoco
