@@ -40,7 +40,7 @@ To flash the Marauder onto the board, we suggest using **Google Chrome** or **Mi
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
 
 1. Open the Web Flasher called < ESPWebTool > by following this link: [https://esp.huhn.me/](https://esp.huhn.me/). 
- Credit of the site goes to @spacehuhn
+ 
 
 2. Connect the USB-C cable to your laptop or computer. Then, while holding the Boot button (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
@@ -59,4 +59,6 @@ FYI. Some people might need a few attempts to get it working during the process 
 ## Q & A
 #
 #
-#
+# credibility
+- Credit of the [web flasher](https://esp.huhn.me/) goes to @spacehuhn
+- Credit of Marauder Firmware goes to @JustCallmeCoco
