@@ -1,6 +1,13 @@
 # 3in1 WIFI Board with Screen
 Update: 21 Feb 2025 by John @ Honey Honey Team
 
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Front.WithFZ.white.jpg)
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Front.withoutFZ.white.black.jpg)
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/back.withoutFZ.white.black.jpg)
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Back.WithoutFZ%2Cwhite.black.jpg)
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/side.withoutFZ.white.black.jpg)
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Top.withFZ.white.jpg)
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Top.WithFZ.black.jpg)
 ## What is 3in1 stands for.  
 
 3-in-1 means there are three chipsets on a single board: ESP32, nRF24, and CC1101.
@@ -41,7 +48,7 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 1. Open the Web Flasher called < ESPWebTool > [https://esp.huhn.me/](https://esp.huhn.me/). 
 
-2. Connect the USB-C cable to your laptop or computer. Then, while holding the BOOT button (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
+2. Connect the USB-C cable to your laptop or computer. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
 3. Then, click "Connect" on the website.
 
