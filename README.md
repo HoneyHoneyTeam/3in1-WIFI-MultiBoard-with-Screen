@@ -75,7 +75,7 @@ FYI. Some people might need a few attempts to get it working during the process 
 </details>
 
 ### Our official shop if you would like to support us.  
-1. Our official site]
+1. [Our official site](https://honeyhoneylab.com/)
 2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
 3. eBay
 4. ~~[ETSY Shop](https://www.etsy.com/au/shop/HoneyHoneyTrading)~~
