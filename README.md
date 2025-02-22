@@ -84,9 +84,9 @@ FYI. Some people might need a few attempts to get it working during the process 
 
 We provide a 1-year warranty on all our products, unless stated otherwise in the product description.
 
-FYI, our Etsy shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. We estimate that we spent at least 25% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer.
+FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. While the shop was in operational, We estimate that we spent at least 30% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer. 
 
-To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com.
+To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or Whatsapp 
 
 ### Credibility
 - Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
