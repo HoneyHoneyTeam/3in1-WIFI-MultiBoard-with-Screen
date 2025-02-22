@@ -43,8 +43,10 @@ The switch at the back of the board is for the SubGHz CC1101 amplifier. (The swi
 - When the switch is set to **TX**, it **amplifies the transmitting signal** of the Sub chipset. 
 - When the switch is set to **RX**, it **amplifies the receiving signal** of the CC1101 chipset. 
 - Both transmitting and receiving signals of the chipset function normally, regardless of the switch position;
-  
+
 ### How to upgrade Marauder firmware
+<details>
+<summary> Click the Triangle for more details   </summary>
 
 To flash the Marauder onto the board, we suggest using **Google Chrome** or **Microsoft Edge**.  
 
@@ -69,6 +71,8 @@ There are two buttons located near the screen: the button on the right is the Bo
 7. The system should be ready to go in a few minutes.
 
 FYI. Some people might need a few attempts to get it working during the process of getting the board into Bootloader mode, aka holding the BOOT button and connecting the USB-C cable, and the web refresher recogize it. Just be patient and try a few times.
+
+</details>
 
 ### Our official shop if you would like to support us.  
 1. Our official site
