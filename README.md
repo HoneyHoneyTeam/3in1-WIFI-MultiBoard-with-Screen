@@ -75,13 +75,14 @@ FYI. Some people might need a few attempts to get it working during the process 
 </details>
 
 ### Our official shop if you would like to support us.  
-1. Our official site
+1. Our official site]
 2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
 3. eBay
+4. ~~[ETSY Shop](https://www.etsy.com/au/shop/HoneyHoneyTrading)~~
 
 ### Warrenty and Tech Support
 
-We provide a 1-year warranty on all our products, unless stated otherwise in the specific product description.
+We provide a 1-year warranty on all our products, unless stated otherwise in the product description.
 
 FYI, our Etsy shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. We estimate that we spent at least 25% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer.
 
