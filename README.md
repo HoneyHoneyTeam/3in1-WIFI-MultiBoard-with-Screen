@@ -8,18 +8,18 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/side.withoutFZ.white.black.jpg)
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Top.withFZ.white.jpg)
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Top.WithFZ.black.jpg)
-## What is 3in1 stands for.  
+### What is 3in1 stands for.  
 
 3-in-1 means there are three chipsets on a single board: ESP32, nRF24, and CC1101.
 
-## What does 3in1 Wifi Board use for.
+### What does 3in1 Wifi Board use for.
 
 The board is designed for the Flipper Zero and extending Flipper functionality, including Wi-Fi, RF 2.4GHz support, and an expanded SubGHz coverage
 
 
-## Specification
+### Specification
 
-- ESP32-S2 Chipset for Wifi & Pre-load with Marauder firmware 
+- ESP32-S2 Chipset for Wifi & Pre-load with Marauder 
 - CC1101 SubGhz chipset (433mhz) with amplifier
 - NRF24 2.4Ghz Chipset 
 - 1.2 inch Screen  
@@ -28,19 +28,23 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 - Onboard BOOT bottom (Right) and RESET bottom (Left) 
 - MicroSD card slot 
 - USB C Connector
+
+
   
-## How the board operate 
+### How the board operate 
 
 - Simply plug in the board to the Flipper Zero, use the toggle to select one of the three chipsets, choose the app via the Flipper, and you’re good to go.
+- nRF24 and CC1101 chipsets don't require firmware to work. Most of Flipper Zero firmware, including Momentum, Unleashed, etc would support both natively.
+- ESP32-32 requires Marauder firmware to perform, which has been pre-loaded. 
 
-## CC1101 Amplifier Explanation
+### CC1101 Amplifier Explanation
 
-The switch at the back of the board is for the SubGHz CC1101 amplifier. 
+The switch at the back of the board is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
 - When the switch is set to **TX**, it **amplifies the transmitting signal** of the Sub chipset. 
 - When the switch is set to **RX**, it **amplifies the receiving signal** of the CC1101 chipset. 
 - Both transmitting and receiving signals of the chipset function normally, regardless of the switch position;
   
-## How to upgrade Marauder firmware
+### How to upgrade Marauder firmware
 
 To flash the Marauder onto the board, we suggest using **Google Chrome** or **Microsoft Edge**.  
 
@@ -66,23 +70,23 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 FYI. Some people might need a few attempts to get it working during the process of getting the board into Bootloader mode, aka holding the BOOT button and connecting the USB-C cable, and the web refresher recogize it. Just be patient and try a few times.
 
-## Our offical shop. 
+### Our official shop if you would like to support us.  
 1. Our official site
-2. Tindie
+2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
 3. eBay
 
-## Warrenty and Tech Support
+### Warrenty and Tech Support
 
-We provide 1 year warrenty to all our products unless it states otherwise. 
+We provide a 1-year warranty on all our products, unless stated otherwise in the specific product description.
 
-FYI, Our ETSY shop is no longer available, We have decide to shut it down at the begining of 2025, even the shop have The Star Seller Status. We reckon we have spent at least 25% our time just communicating with ETSY sell management team for nonsense, including shuting down our shop twice without warning, and they cannot provide valid reasons after shop recovery. 
+FYI, our Etsy shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. We estimate that we spent at least 25% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer.
 
-To all our clients who purchased items from our shop, either from ETSY or eBay or Facebook marketplace, we will honor the warrenty and provide support. Please feel free to email us via Support@honeyhoneylab.com 
+To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com.
 
-## Credibility
+### Credibility
 - Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
 
-## metadata for bots ###
+### Metadata for bots ###
 flipper zero, flipper, wifi board, marauder, network security, esp32, cc1101, nrf24, subghz, 2.4ghz, wifi, 
