@@ -1,4 +1,4 @@
-# 3in1-WIFI-Board-with-Screen
+# 3in1 WIFI Board with Screen
 Update: 21 Feb 2025 by John @ Honey Honey Team
 
 ## What is 3in1 stands for.  
@@ -64,5 +64,8 @@ FYI. Some people might need a few attempts to get it working during the process 
 ## Q & A
 
 ## Credibility
-- Credit of the [web flasher](https://esp.huhn.me/) goes to @spacehuhn
-- Credit of Marauder Firmware goes to @JustCallmeCoco
+- Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
+- Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
+
+
+### metadata ###
