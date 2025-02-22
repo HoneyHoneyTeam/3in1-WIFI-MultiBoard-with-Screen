@@ -51,12 +51,11 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 6. Open [Marauder firmware website](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater), and download the **four** related files under **Flipper Zero WiFi Dev Board**, as the 3-in-1 board uses the same chipset as the original Flipper WiFi Dev Board, as showed in the following picture. 
 
+7. Next, load up the files into the ESPWebTool as shown in the picture. After double-checking that you've selected the correct files, click "PROGRAM."
+
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/ESPwebtool.files.png?raw=true)   
 
-
-8. Next, select the files as shown in the picture. After double-checking that you've selected the correct files, click "PROGRAM."
-
-9. The system should be ready to go in a few minutes.
+8. The system should be ready to go in a few minutes.
 
 FYI. Some people might need a few attempts to get it working during the process of getting the board into Bootloader mode, aka holding the BOOT button and connecting the USB-C cable, and the web refresher recogize it. Just be patient and try a few times.
 
