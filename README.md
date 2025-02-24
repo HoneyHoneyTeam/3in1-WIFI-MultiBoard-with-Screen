@@ -11,14 +11,6 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 
 <br/>
 
-## Table of Contents
-- [What is it?](##-What-is-it?)
-- [Specification of the board](##-Specification-of-the-board)
-- [How to Build](#-how-to-build)
-- [Documentation](#-documentation)
-- [Feedback and Contributions](#-feedback-and-contributions)
-- [Credibility](##-Credibility)
-- [Contacts](#%EF%B8%8F-contacts)
 
 ## What is it?
 
