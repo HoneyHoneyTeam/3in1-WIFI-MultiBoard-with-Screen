@@ -11,17 +11,24 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 
 <br/>
 
-### What is 3in1 stands for and what can it be use for?
+## Table of Contents
+- [What is it?](##-What-is-it?)
+- [Certification](#-certification)
+- [How to Build](#-how-to-build)
+- [Documentation](#-documentation)
+- [Feedback and Contributions](#-feedback-and-contributions)
+- [License](#-license)
+- [Contacts](#%EF%B8%8F-contacts)
+
+## What is it?
 
 3-in-1 means there are three chipsets on a single board: ESP32, nRF24, and CC1101.
-
-### What does 3in1 Wifi Board use for.
 
 The board is designed for the Flipper Zero and extending Flipper functionality, including Wi-Fi, RF 2.4GHz support, and an expanded SubGHz coverage
 
 <br/>
 
-### Specification
+## Specification
 
 - ESP32-S2 Chipset for Wifi & Pre-load with Marauder 
 - CC1101 SubGhz chipset (433mhz) with amplifier
@@ -36,7 +43,7 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 <br/>
 
   
-### How the board operate 
+## How the board operate 
 
 - Simply plug in the board to the Flipper Zero, use the toggle to select one of the three chipsets, choose the app via the Flipper, and you’re good to go.
 - nRF24 and CC1101 chipsets don't require firmware to work. Most of Flipper Zero firmware, including Momentum, Unleashed, etc would support both natively.
@@ -44,7 +51,7 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 
 <br/>
 
-### CC1101 Amplifier Explanation
+## CC1101 Amplifier Explanation
 
 The switch at the back of the board is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
 - When the switch is set to **TX**, it **amplifies the transmitting signal** of the Sub chipset. 
@@ -53,7 +60,7 @@ The switch at the back of the board is for the SubGHz CC1101 amplifier. (The swi
 
 <br/>
 
-### How to upgrade Marauder firmware
+## How to upgrade Marauder firmware
 <details>
 <summary> Click the Triangle for more details   </summary>
 
@@ -85,7 +92,7 @@ FYI. Some people might need a few attempts to get it working during the process 
 
 <br/>
 
-### Our official shop if you would like to support us.  
+## Our official shop if you would like to support us.  
 1. [Our official site](https://honeyhoneylab.com/)
 2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
 3. eBay
@@ -93,7 +100,7 @@ FYI. Some people might need a few attempts to get it working during the process 
 
 <br/>
 
-### Warrenty and Tech Support
+## Warrenty and Tech Support
 
 We provide a 1-year warranty on all our products, unless stated otherwise in the product description.
 
@@ -103,10 +110,10 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 
 <br/>
 
-### Credibility
+## Credibility
 - Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
 
-### Metadata for bots ###
+## Metadata for bots ###
 flipper zero, flipper, wifi board, marauder, network security, esp32, cc1101, nrf24, subghz, 2.4ghz, wifi, 
