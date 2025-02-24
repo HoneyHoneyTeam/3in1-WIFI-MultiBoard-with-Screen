@@ -13,7 +13,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 
 ## Table of Contents
 - [What is it?](##-What-is-it?)
-- [Certification](#-certification)
+- [Specification of the board](##-Specification-of-the-board)
 - [How to Build](#-how-to-build)
 - [Documentation](#-documentation)
 - [Feedback and Contributions](#-feedback-and-contributions)
@@ -28,7 +28,7 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 
 <br/>
 
-## Specification
+## Specification of the board
 
 - ESP32-S2 Chipset for Wifi & Pre-load with Marauder 
 - CC1101 SubGhz chipset (433mhz) with amplifier
