@@ -1,7 +1,7 @@
 # 3in1 WIFI Board with Screen
 Update: 21 Feb 2025 by John @ Honey Honey Team
 
-![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Front.WithFZ.white.jpg)
+![Alt text](assets/images/Front.WithFZ.white.jpg)
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Front.withoutFZ.white.black.jpg)
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/back.withoutFZ.white.black.jpg)
 ![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/Back.WithoutFZ%2Cwhite.black.jpg)
