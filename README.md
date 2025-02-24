@@ -55,13 +55,13 @@ To flash the Marauder onto the board, we suggest using **Google Chrome** or **Mi
 
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
 
-1. Open the Web Flasher called < ESPWebTool > [https://esp.huhn.me/](https://esp.huhn.me/). [^1]
+1. Open the Web Flasher called < ESPWebTool > [https://esp.huhn.me/](https://esp.huhn.me/). 
 
 2. Connect the USB-C cable to your laptop or computer. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
 3. Then, click "Connect" on the website.
 
-![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/ESPwebtool.connect.png?raw=true)
+![Alt text](assests/images/ESPwebtool.connect.png?raw=true)
    
 4. In the prompt window, select <ESP32-S2 (COM X)> (X will be a number between 1 and 9). 
 
@@ -69,7 +69,7 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 6. Next, load up the files into the ESPWebTool as shown in the picture. After double-checking that you've selected the correct files, click "PROGRAM."
 
-![Alt text](https://github.com/HoneyHoneyTeam/3in1-WIFI-Board-with-Screen/blob/main/ESPwebtool.files.png?raw=true)   
+![Alt text](assests/images/ESPwebtool.files.png?raw=true)   
 
 7. The system should be ready to go in a few minutes.
 
@@ -92,7 +92,7 @@ FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longe
 To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or Whatsapp 
 
 ### Credibility
-- [^1]Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
+- Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
 
