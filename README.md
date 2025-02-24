@@ -8,7 +8,10 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 ![Alt text](assets/images/side.withoutFZ.white.black.jpg)
 ![Alt text](assets/images/Top.withFZ.white.jpg)
 ![Alt text](assets/images/Top.WithFZ.black.jpg)
-### What is 3in1 stands for.  
+
+<br\>
+
+### What is 3in1 stands for and what can it be use for?
 
 3-in-1 means there are three chipsets on a single board: ESP32, nRF24, and CC1101.
 
@@ -52,7 +55,7 @@ To flash the Marauder onto the board, we suggest using **Google Chrome** or **Mi
 
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
 
-1. Open the Web Flasher called < ESPWebTool > [https://esp.huhn.me/](https://esp.huhn.me/). 
+1. Open the Web Flasher called < ESPWebTool > [https://esp.huhn.me/](https://esp.huhn.me/). [^1]
 
 2. Connect the USB-C cable to your laptop or computer. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
@@ -89,7 +92,7 @@ FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longe
 To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or Whatsapp 
 
 ### Credibility
-- Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
+- [^1]Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
 
