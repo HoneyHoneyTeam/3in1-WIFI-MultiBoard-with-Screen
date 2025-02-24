@@ -17,7 +17,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 - [How to Build](#-how-to-build)
 - [Documentation](#-documentation)
 - [Feedback and Contributions](#-feedback-and-contributions)
-- [License](#-license)
+- [Credibility](##-Credibility)
 - [Contacts](#%EF%B8%8F-contacts)
 
 ## What is it?
