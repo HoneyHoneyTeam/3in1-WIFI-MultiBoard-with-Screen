@@ -2,12 +2,12 @@
 Update: 21 Feb 2025 by John @ Honey Honey Team
 
 ![Alt text](assets/images/Front.WithFZ.white.jpg)
-![Alt text](assets/images/3in1-WIFI-Board-with-Screen/blob/main/Front.withoutFZ.white.black.jpg)
-![Alt text](assets/images/3in1-WIFI-Board-with-Screen/blob/main/back.withoutFZ.white.black.jpg)
-![Alt text](assets/images/3in1-WIFI-Board-with-Screen/blob/main/Back.WithoutFZ%2Cwhite.black.jpg)
-![Alt text](assets/images/3in1-WIFI-Board-with-Screen/blob/main/side.withoutFZ.white.black.jpg)
-![Alt text](assets/images/3in1-WIFI-Board-with-Screen/blob/main/Top.withFZ.white.jpg)
-![Alt text](assets/images/3in1-WIFI-Board-with-Screen/blob/main/Top.WithFZ.black.jpg)
+![Alt text](assets/images/Front.withoutFZ.white.black.jpg)
+![Alt text](assets/images/back.withoutFZ.white.black.jpg)
+![Alt text](assets/images/Back.WithoutFZ%2Cwhite.black.jpg)
+![Alt text](assets/images/side.withoutFZ.white.black.jpg)
+![Alt text](assets/images/Top.withFZ.white.jpg)
+![Alt text](assets/images/Top.WithFZ.black.jpg)
 ### What is 3in1 stands for.  
 
 3-in-1 means there are three chipsets on a single board: ESP32, nRF24, and CC1101.
