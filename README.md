@@ -9,7 +9,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 ![Alt text](assets/images/Top.withFZ.white.jpg)
 ![Alt text](assets/images/Top.WithFZ.black.jpg)
 
-<br\>
+<br/>
 
 ### What is 3in1 stands for and what can it be use for?
 
@@ -19,6 +19,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 
 The board is designed for the Flipper Zero and extending Flipper functionality, including Wi-Fi, RF 2.4GHz support, and an expanded SubGHz coverage
 
+<br/>
 
 ### Specification
 
@@ -32,6 +33,7 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 - MicroSD card slot 
 - USB C Connector
 
+<br/>
 
   
 ### How the board operate 
@@ -40,12 +42,16 @@ The board is designed for the Flipper Zero and extending Flipper functionality, 
 - nRF24 and CC1101 chipsets don't require firmware to work. Most of Flipper Zero firmware, including Momentum, Unleashed, etc would support both natively.
 - ESP32-32 requires Marauder firmware to perform, which has been pre-loaded. 
 
+<br/>
+
 ### CC1101 Amplifier Explanation
 
 The switch at the back of the board is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
 - When the switch is set to **TX**, it **amplifies the transmitting signal** of the Sub chipset. 
 - When the switch is set to **RX**, it **amplifies the receiving signal** of the CC1101 chipset. 
 - Both transmitting and receiving signals of the chipset function normally, regardless of the switch position;
+
+<br/>
 
 ### How to upgrade Marauder firmware
 <details>
@@ -77,11 +83,15 @@ FYI. Some people might need a few attempts to get it working during the process 
 
 </details>
 
+<br/>
+
 ### Our official shop if you would like to support us.  
 1. [Our official site](https://honeyhoneylab.com/)
 2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
 3. eBay
 4. ~~[ETSY Shop](https://www.etsy.com/au/shop/HoneyHoneyTrading)~~
+
+<br/>
 
 ### Warrenty and Tech Support
 
@@ -90,6 +100,8 @@ We provide a 1-year warranty on all our products, unless stated otherwise in the
 FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. While the shop was in operational, We estimate that we spent at least 30% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer. 
 
 To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or Whatsapp 
+
+<br/>
 
 ### Credibility
 - Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
