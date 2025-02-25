@@ -111,6 +111,13 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 - Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
+<br/>
 
-## Metadata for bots ###
+## FAQ 
+
+To be continue.
+
+<br/>
+
+### Metadata for bots ###
 flipper zero, flipper, wifi board, marauder, network security, esp32, cc1101, nrf24, subghz, 2.4ghz, wifi, 
