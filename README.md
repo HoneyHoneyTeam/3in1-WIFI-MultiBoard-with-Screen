@@ -16,7 +16,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 
 The 3-in-1 board contains three chipsets: ESP32, nRF24, and CC1101. 
 
-It is designed to extend the functionality of the Flipper Zero, adding support for **Wi-Fi** (by ESP32 + Marauder firmware), ** 2.4GHz RF** (by nRF24), and **expanded SubGHz coverage ** (by CC1101).
+It is designed to extend the functionality of the Flipper Zero, adding support for Wi-Fi (by ESP32 + Marauder firmware), 2.4GHz RF (by nRF24), and expanded SubGHz coverage (by CC1101).
 
 <br/>
 
@@ -27,7 +27,7 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 - NRF24 2.4Ghz Chipset 
 - 1.2 inch Screen  
 - 3 * SMA antenna for 3 individual chipsets 
-- Toggle controller for functionality selection 
+- 3-way toggle controller for functionality selection (left, right and enter) 
 - Onboard BOOT bottom (Right) and RESET bottom (Left) 
 - MicroSD card slot 
 - USB C Connector
@@ -37,9 +37,9 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
   
 ## How the board operate 
 
-- Simply plug in the board to the Flipper Zero, use the toggle to select one of the three chipsets, choose the app via the Flipper, and you’re good to go.
-- nRF24 and CC1101 chipsets don't require firmware to work. Most of Flipper Zero firmware, including Momentum, Unleashed, etc would support both natively.
-- ESP32-32 requires Marauder firmware to perform, which has been pre-loaded. 
+- Simply plug the board into the Flipper Zero, use the toggler to select one of the three chipsets and confirm the selection, then choose one of the relative apps on the Flipper, and you're good to go.
+- The nRF24 and CC1101 chipsets do not require additional firmware to function. Most Flipper Zero firmware, including Momentum, Unleashed, and others, support them natively.
+- The ESP32 requires Marauder firmware to function, and it has already been pre-loaded.
 
 <br/>
 
@@ -78,7 +78,10 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 7. The system should be ready to go in a few minutes.
 
-FYI. Some people might need a few attempts to get it working during the process of getting the board into Bootloader mode, aka holding the BOOT button and connecting the USB-C cable, and the web refresher recogize it. Just be patient and try a few times.
+FYI. 
+
+- Some people might need a few attempts to get it working during the process of getting the board into Bootloader mode, aka holding the BOOT button and connecting the USB-C cable, and the web refresher recogize it. Just be patient and try a few times.
+- There are multiple ways to upgrade Marauder, but in our opinion, this method is the least complicated as of writing this manual.
 
 </details>
 
