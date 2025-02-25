@@ -12,11 +12,11 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 <br/>
 
 
-## What is it?
+## What is it, and what can the board do??
 
-3-in-1 means there are three chipsets on a single board: ESP32, nRF24, and CC1101.
+The 3-in-1 board contains three chipsets: ESP32, nRF24, and CC1101. 
 
-The board is designed for the Flipper Zero and extending Flipper functionality, including Wi-Fi, RF 2.4GHz support, and an expanded SubGHz coverage
+It is designed to extend the functionality of the Flipper Zero, adding support for **Wi-Fi** (by ESP32 + Marauder firmware), ** 2.4GHz RF** (by nRF24), and **expanded SubGHz coverage ** (by CC1101).
 
 <br/>
 
