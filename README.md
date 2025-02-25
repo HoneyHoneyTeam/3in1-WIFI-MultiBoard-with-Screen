@@ -39,16 +39,16 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 
 - Simply plug the board into the Flipper Zero, use the toggler to select one of the three chipsets and confirm the selection, then choose one of the relative apps on the Flipper, and you're good to go.
 - The nRF24 and CC1101 chipsets do not require additional firmware to function. Most Flipper Zero firmware, including Momentum, Unleashed, and others, support them natively.
-- The ESP32 requires Marauder firmware to function, and it has already been pre-loaded.
+- The ESP32 requires Marauder firmware to function, and it comes pre-loaded with the firmware on the ESP32 chipset.
 
 <br/>
 
 ## CC1101 Amplifier Explanation
 
 The switch at the back of the board is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
-- When the switch is set to **TX**, it **amplifies the transmitting signal** of the Sub chipset. 
+- When the switch is set to **TX**, it **amplifies the transmitting signal** of the CC1101 chipset. 
 - When the switch is set to **RX**, it **amplifies the receiving signal** of the CC1101 chipset. 
-- Both transmitting and receiving signals of the chipset function normally, regardless of the switch position;
+- Both transmitting and receiving signals of the CC1101 chipset function normally, regardless of the switch position;
 
 <br/>
 
@@ -56,7 +56,7 @@ The switch at the back of the board is for the SubGHz CC1101 amplifier. (The swi
 <details>
 <summary> Click the Triangle for more details   </summary>
 
-To flash the Marauder onto the board, we suggest using **Google Chrome** or **Microsoft Edge**.  
+To flash the Marauder onto the board, we suggest using **Google Chrome**.  
 
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
 
@@ -64,7 +64,9 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 2. Connect the USB-C cable to your laptop or computer. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
-3. Then, click "Connect" on the website.
+   ![Alt text](assests/images/)  ---- **add photo of the buttom**  
+
+4. Then, click "Connect" on the website.
 
 ![Alt text](assests/images/ESPwebtool.connect.png?raw=true)
    
@@ -97,7 +99,7 @@ FYI.
 
 ## Warrenty and Tech Support
 
-We provide a 1-year warranty on all our products, unless stated otherwise in the product description.
+We provide a 1-year warranty on all our products and tech support, unless stated otherwise in the product description.
 
 FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. While the shop was in operational, We estimate that we spent at least 30% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer. 
 
