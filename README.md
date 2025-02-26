@@ -9,6 +9,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 ![Alt text](assets/images/Top.withFZ.white.jpg)
 ![Alt text](assets/images/Top.WithFZ.black.jpg)
 ![Alt text](assets/images/antenna.bottom.jpeg)
+
 <br/>
 
 
@@ -56,6 +57,8 @@ The switch at the back of the board is for the SubGHz CC1101 amplifier. (The swi
 <details>
 <summary> Click the Triangle for more details   </summary>
 
+<br/>
+
 To flash the Marauder onto the board, we suggest using **Google Chrome**.  
 
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
@@ -64,19 +67,19 @@ There are two buttons located near the screen: the button on the right is the Bo
 
 2. Connect the USB-C cable to your laptop or computer. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
 
-   ![Alt text](assests/images/)  ---- **add photo of the buttom**  
+  ![Alt text](assets/images/antenna.bottom.jpeg)
 
-4. Then, click "Connect" on the website.
+4. Then, click "Connect" on the website, as shown in the next picture.
 
-![Alt text](assests/images/ESPwebtool.connect.png?raw=true)
+![Alt text](assets/images/ESPwebtool.connect.png)
    
 4. In the prompt window, select <ESP32-S2 (COM X)> (X will be a number between 1 and 9). 
 
 5. Open [Marauder firmware website](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater), and download the **four** related files under **Flipper Zero WiFi Dev Board**, as the 3-in-1 board uses the same chipset as the original Flipper WiFi Dev Board, as showed in the following picture. 
 
-6. Next, load up the files into the ESPWebTool as shown in the picture. After double-checking that you've selected the correct files, click "PROGRAM."
+6. Next, load up the files into the ESPWebTool as shown in the next picture. After double-checking that you've selected the correct files, click "PROGRAM."
 
-![Alt text](assests/images/ESPwebtool.files.png?raw=true)   
+![Alt text](assets/images/ESPwebtool.files.png) 
 
 7. The system should be ready to go in a few minutes.
 
@@ -103,7 +106,7 @@ We provide a 1-year warranty on all our products and tech support, unless stated
 
 FYI, our [Etsy](https://www.etsy.com/au/shop/HoneyHoneyTrading) shop is no longer in operation. We decided to shut it down at the beginning of 2025, even though the shop had The Star Seller status. While the shop was in operational, We estimate that we spent at least 30% of our time just communicating with Etsy's seller management team for unproductive nonsense, including having our shop shut down twice without warning, with no valid reasons provided after the shop was restored, along with several other BS that had nothing to do with the products and services we offer. 
 
-To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or Whatsapp 
+To all our clients who purchased items from our shop, whether from Etsy, eBay, Tindie, or Facebook Marketplace, we will honor the warranty and provide support. Please feel free to email us at Support@honeyhoneylab.com. or [Whatsapp](https://wa.me/61452559581) 
 
 <br/>
 
