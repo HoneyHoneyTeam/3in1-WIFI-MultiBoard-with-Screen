@@ -8,7 +8,7 @@ Update: 21 Feb 2025 by John @ Honey Honey Team
 ![Alt text](assets/images/side.withoutFZ.white.black.jpg)
 ![Alt text](assets/images/Top.withFZ.white.jpg)
 ![Alt text](assets/images/Top.WithFZ.black.jpg)
-
+![Alt text](assets/images/antenna.bottom.jpeg)
 <br/>
 
 
