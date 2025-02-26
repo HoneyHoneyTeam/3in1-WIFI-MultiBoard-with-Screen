@@ -95,7 +95,7 @@ FYI.
 ## Our official shop if you would like to support us.  
 1. [Our official site](https://honeyhoneylab.com/)
 2. [Tindie](https://www.tindie.com/stores/honeyhoneytrading/)
-3. eBay
+3. [eBay](https://www.ebay.com.au/itm/197055970582)
 4. ~~[ETSY Shop](https://www.etsy.com/au/shop/HoneyHoneyTrading)~~
 
 <br/>
