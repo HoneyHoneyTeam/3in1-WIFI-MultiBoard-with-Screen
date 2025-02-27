@@ -1,4 +1,4 @@
-# 3in1 WIFI MultiBoard with Screen
+# 3in1 WiFi MultiBoard with Screen
 Update: 26 Feb 2025 by John @ Honey Honey Team
 
 ![Alt text](assets/images/Front.WithFZ.white.jpg)
