@@ -1,4 +1,4 @@
-# 3in1 WIFI Board with Screen
+# 3in1 WIFI MultiBoard with Screen
 Update: 26 Feb 2025 by John @ Honey Honey Team
 
 ![Alt text](assets/images/Front.WithFZ.white.jpg)
@@ -13,15 +13,15 @@ Update: 26 Feb 2025 by John @ Honey Honey Team
 <br/>
 
 
-## What is it, and what can the board do??
+## What is it, and what can the Multiboard do??
 
-The 3-in-1 board contains three chipsets: ESP32, nRF24, and CC1101. 
+The 3-in-1 Multiboard contains three chipsets: ESP32, nRF24, and CC1101. 
 
 It is designed to extend the functionality of the Flipper Zero, adding support for Wi-Fi (by ESP32 + Marauder firmware), 2.4GHz RF (by nRF24), and expanded SubGHz coverage (by CC1101).
 
 <br/>
 
-## Specification of the board
+## Specification of the Multiboard
 
 - ESP32-S2 Chipset for Wifi & Pre-load with Marauder 
 - CC1101 SubGhz chipset (433mhz) with amplifier
@@ -36,9 +36,9 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 <br/>
 
   
-## How the board operate 
+## How the Multiboard operate 
 
-- Simply plug the board into the Flipper Zero, use the toggler to select one of the three chipsets and confirm the selection, then choose one of the relative apps on the Flipper, and you're good to go.
+- Simply plug the Multiboard into the Flipper Zero, use the toggler to select one of the three chipsets and confirm the selection, then choose one of the relative apps on the Flipper, and you're good to go.
 - The nRF24 and CC1101 chipsets do not require additional firmware to function. Most Flipper Zero firmware, including Momentum, Unleashed, and others, support them natively.
 - The ESP32 requires Marauder firmware to function, and it comes pre-loaded with the firmware on the ESP32 chipset.
 
@@ -46,7 +46,7 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 
 ## CC1101 Amplifier Explanation
 
-The switch at the back of the board is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
+The switch at the back of the Multiboard is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
 - When the switch is set to **TX**, it **amplifies the transmitting signal** of the CC1101 chipset. 
 - When the switch is set to **RX**, it **amplifies the receiving signal** of the CC1101 chipset. 
 - Both transmitting and receiving signals of the CC1101 chipset function normally, regardless of the switch position;
@@ -59,7 +59,7 @@ The switch at the back of the board is for the SubGHz CC1101 amplifier. (The swi
 
 <br/>
 
-To flash the Marauder onto the board, we suggest using **Google Chrome**.  
+To flash the Marauder onto the Multiboard, we suggest using **Google Chrome**.  
 
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
 
