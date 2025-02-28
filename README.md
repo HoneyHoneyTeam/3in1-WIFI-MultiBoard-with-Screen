@@ -53,6 +53,14 @@ The switch at the back of the Multiboard is for the SubGHz CC1101 amplifier. (Th
 
 <br/>
 
+## What is the difference between our boards for Flipper Zero. 
+
+<br/>
+
+![Alt text](https://github.com/HoneyHoneyTeam/3in1-WiFi-MultiBoard/blob/main/Assets/images/3boardsInComparison.png)
+
+<br/>
+
 ## How to upgrade Marauder firmware
 <details>
 <summary> Click the Triangle for more details   </summary>
