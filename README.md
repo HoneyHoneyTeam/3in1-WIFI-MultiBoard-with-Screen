@@ -103,7 +103,7 @@ To all our clients who purchased items from our shop, whether from Etsy, eBay, T
 <br/>
 
 ## Credibility
-- Credit of the [web flasher](https://esp.huhn.me/) goes to <ins>@spacehuhn</ins>
+- Credit of the [web flasher](https://fzeeflasher.com/) goes to <ins>@Zardoz, @InfoSecREDD, @ dag </ins>
 - Credit of Marauder Firmware goes to <ins>@JustCallmeCoco</ins>
 
 <br/>
