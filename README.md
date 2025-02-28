@@ -63,25 +63,17 @@ To flash the Marauder onto the Multiboard, we suggest using **Google Chrome**.
 
 There are two buttons located near the screen: the button on the right is the Boot button, and the one on the left is the Reset button. 
 
-1. Open the Web Flasher called < ESPWebTool > [https://esp.huhn.me/](https://esp.huhn.me/). 
+1. Open the Web Flasher called < FzeeFlasher > [https://fzeeflasher.com/](https://fzeeflasher.com). 
 
-2. Connect the USB-C cable to your laptop or computer. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into the board. AKA, getting the board into Bootloader mode rather than starting up normally
+2. Connect the USB-C cable to the board. Then, while **holding the BOOT button** (on the right side of the board), plug the USB-C cable into your laptop / PC / Mac. In this way, the board launch into Bootloader mode rather than starting up normally
 
-  ![Alt text](assets/images/antenna.bottom.jpeg)
+3. Then, On https://fzeeflasher.com/, go to [ **Connect** ]. In the pop-up window, select [ **USB Serial (ComXxX) - Paired** ], which usually has only one serial for most users. Then, click [ **Connect** ].
 
-4. Then, click "Connect" on the website, as shown in the next picture.
+4. If everything is working correctly, the website should allow you to select the model of the board. Choose [ **ESP32-S2** ]. Then, select your preferred [ **Version** ] of Marauder and choose [ **Marauder** ] under [ **Firmware** ].
 
-![Alt text](assets/images/ESPwebtool.connect.png)
-   
-4. In the prompt window, select <ESP32-S2 (COM X)> (X will be a number between 1 and 9). 
-
-5. Open [Marauder firmware website](https://github.com/justcallmekoko/ESP32Marauder/wiki/update-firmware#using-spacehuhn-web-updater), and download the **four** related files under **Flipper Zero WiFi Dev Board**, as the 3-in-1 board uses the same chipset as the original Flipper WiFi Dev Board, as showed in the following picture. 
-
-6. Next, load up the files into the ESPWebTool as shown in the next picture. After double-checking that you've selected the correct files, click "PROGRAM."
-
-![Alt text](assets/images/ESPwebtool.files.png) 
-
-7. The system should be ready to go in a few minutes.
+5. Then the website should allow you to hit [ **PROGRAM** ] bottom.
+    
+6. In a minute then you are golden. 
 
 FYI. 
 
