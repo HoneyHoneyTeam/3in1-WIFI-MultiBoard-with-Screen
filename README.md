@@ -1,5 +1,5 @@
 # 3in1 WiFi MultiBoard with Screen
-Update: 26 Feb 2025 by John @ Honey Honey Team
+Update: 29 March 2025 by John @ Honey Honey Team
 
 ![Alt text](assets/images/Front.WithFZ.white.jpg)
 ![Alt text](assets/images/Front.withoutFZ.white.black.jpg)
@@ -24,7 +24,7 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 ## Specification of the Multiboard
 
 - ESP32-S2 Chipset for Wifi & Pre-load with Marauder 
-- CC1101 SubGhz chipset (433mhz) with amplifier
+- CC1101 SubGhz chipset (433mhz)
 - NRF24 2.4Ghz Chipset 
 - 1.2 inch Screen  
 - 3 * SMA antenna for 3 individual chipsets 
@@ -41,15 +41,6 @@ It is designed to extend the functionality of the Flipper Zero, adding support f
 - Simply plug the Multiboard into the Flipper Zero, use the toggler to select one of the three chipsets and confirm the selection, then choose one of the relative apps on the Flipper, and you're good to go.
 - The nRF24 and CC1101 chipsets do not require additional firmware to function. Most Flipper Zero firmware, including Momentum, Unleashed, and others, support them natively.
 - The ESP32 requires Marauder firmware to function, and it comes pre-loaded with the firmware on the ESP32 chipset.
-
-<br/>
-
-## CC1101 Amplifier Explanation
-
-The switch at the back of the Multiboard is for the SubGHz CC1101 amplifier. (The switch can be accessed by disassembling the 3D-printed case.)
-- When the switch is set to **TX**, it **amplifies the transmitting signal** of the CC1101 chipset. 
-- When the switch is set to **RX**, it **amplifies the receiving signal** of the CC1101 chipset. 
-- Both transmitting and receiving signals of the CC1101 chipset function normally, regardless of the switch position;
 
 <br/>
 
